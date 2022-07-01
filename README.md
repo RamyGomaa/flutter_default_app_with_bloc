@@ -1,8 +1,8 @@
 # counter_app_bloc
 
-A new Flutter project.
+##  Flutter starting app with bloc..
 
-## Getting Started
+
 
 This project is a starting point for a Flutter application implemented with bloc state management. 
 There is also an extra screen that fetches temp data from https://jsonplaceholder.typicode.com
